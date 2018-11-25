@@ -1,6 +1,6 @@
 # texada
 
-A SQlite database was created using pandas and sql alchemy.  A simple data validation scheme that checks for data type was implemented.
+A SQlite database was created using pandas and sql alchemy.  A simple data validation scheme that checks for data type was implemented using Cerberus.
 
 API can successfully communicate to local database and retrieve records based on unique ID.  API can also append new records to the database.  
 
